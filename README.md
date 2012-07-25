@@ -1,4 +1,4 @@
-## Solutions to Project Euler problems require
+## Requirements
 
  * Java 7
 
