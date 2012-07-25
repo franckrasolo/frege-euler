@@ -1,0 +1,5 @@
+package euler.Problem0004 where
+
+main _ = println $ maximum [ x * y | x <- 100..999, y <- x..999, palindrome $ x * y ]
+    where palindrome n = characters == reverse characters
+           where characters = unpacked $ show n
