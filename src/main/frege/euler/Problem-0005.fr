@@ -1,0 +1,4 @@
+package euler.Problem0005 where
+
+-- see http://www.research.att.com/~njas/sequences/A003418
+main args = println $ foldr1 lcm (1..20)

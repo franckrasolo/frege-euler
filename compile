@@ -1,0 +1,5 @@
+#!/bin/bash
+
+JAVA_HOME=/Library/Java/JavaVirtualMachines/1.7.0u6.jdk/Contents/Home
+
+$JAVA_HOME/bin/java -jar lib/frege.jar $@
