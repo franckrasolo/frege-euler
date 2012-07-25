@@ -2,4 +2,4 @@ package euler.Problem0020 where
 
 pure native digitToInt Character.getNumericValue :: Char -> Int
 
-main _ = println $ sum $ map digitToInt $ unpacked $ show $ product $ 1N..100N
+main _ = println $ sum $ map digitToInt $ unpacked $ show $ product $ 1N .. 100N
