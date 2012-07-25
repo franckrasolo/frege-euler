@@ -2,7 +2,7 @@
 
  * Java 7
 
- * [Frege 3.19.124](http://code.google.com/p/frege/) (or above)
+ * [Frege 3.19.124](http://code.google.com/p/frege/) (included)
 
 ## Usage
 
